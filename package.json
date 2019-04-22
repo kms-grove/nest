@@ -33,7 +33,7 @@
     "@grpc/proto-loader": "0.3.0",
     "@nestjs/common": "6.1.1",
     "@nestjs/core": "6.1.1",
-    "@nestjs/microservices": "6.1.1",
+    "@nestjs/microservices": "6.1.1-grove",
     "@nestjs/testing": "6.1.1",
     "@nestjs/websockets": "6.1.1",
     "@nuxtjs/opencollective": "0.2.1",

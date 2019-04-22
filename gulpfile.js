@@ -67,7 +67,7 @@ gulp.task('clean:dirs', function(done) {
   done();
 });
 
-gulp.task('clean:bundle', gulp.series('clean:output', 'clean:dirs'));
+gulp.task('clean:bundle', gulp.series('clean:dirs'));
 
 modules.forEach(module => {
   gulp.task(module, () => {
