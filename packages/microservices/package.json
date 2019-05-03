@@ -10,7 +10,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry": "http://nexus.jx.ci.grovehr.com/repository/npm-private"
+    "registry": "http://npm.ci.grovehr.com"
   },
   "dependencies": {
     "iterare": "1.1.2",
